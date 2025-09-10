@@ -1,0 +1,2 @@
+# Calculadora-de-N-meros-Primos-com-Crivo-de-Erat-stenes
+Este é um programa de console, desenvolvido em C++, projetado para encontrar e listar todos os números primos em um intervalo de 1 até um número N fornecido pelo usuário. O núcleo do programa utiliza o Crivo de Eratóstenes, um algoritmo altamente eficiente para a geração de primos, garantindo um desempenho rápido mesmo para valores grandes de N.
